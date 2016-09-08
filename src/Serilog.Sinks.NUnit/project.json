@@ -2,7 +2,8 @@
   "version": "0.1.0-beta-*",
   "packOptions": {
     "licenseUrl": "https://github.com/luk355/Serilog.Sinks.NUnit/blob/master/LICENSE",
-    "projectUrl": "https://github.com/luk355/Serilog.Sinks.NUnit"
+    "projectUrl": "https://github.com/luk355/Serilog.Sinks.NUnit",
+    "tags": [ "serilog", "nlog", "sink" ]
   },
 
   "dependencies": {
