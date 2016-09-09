@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0-*",
+  "version": "0.1.0",
   "packOptions": {
     "licenseUrl": "https://github.com/luk355/Serilog.Sinks.NUnit/blob/master/LICENSE",
     "projectUrl": "https://github.com/luk355/Serilog.Sinks.NUnit",
