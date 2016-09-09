@@ -5,7 +5,7 @@ using Serilog.Events;
 using Serilog.Formatting.Display;
 using Serilog.Sinks.NUnit.Sinks.NUnit;
 
-namespace Serilog.Sinks.NUnit
+namespace Serilog
 {
     public static class NUnitLoggerConfigurationExtensions
     {

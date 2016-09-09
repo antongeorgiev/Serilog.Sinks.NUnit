@@ -5,7 +5,7 @@ using Serilog.Core;
 using Serilog.Events;
 using Serilog.Formatting.Display;
 
-namespace Serilog.Sinks.NUnit.Sinks.NUnit
+namespace Serilog.Sinks.NUnit
 {
     public class NUnitSink : ILogEventSink
     {
