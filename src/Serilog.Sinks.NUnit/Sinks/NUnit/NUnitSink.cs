@@ -33,7 +33,7 @@ namespace Serilog.Sinks.NUnit
                 var writer = new StringWriter();
                 _formatter.Format(logEvent, writer);
 
-                TestContext.Out.WriteLine(writer.ToString());
+                TestContext.Progress.WriteLine(writer.ToString());
             }
         }
     }
